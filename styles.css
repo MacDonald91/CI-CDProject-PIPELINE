@@ -1,0 +1,28 @@
+body {
+    background-color: #007bff; /* Darker blue background */
+  }
+  
+  .portfolio-container {
+    margin: 0 auto; /* Center the container */
+    max-width: 800px; /* Set a maximum width for responsiveness */
+    padding: 20px;
+    background-color: #009dff; /* Lighter blue background for the container */
+    overflow-y: auto; /* Add a vertical scrollbar */
+  }
+  .center_div {
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #d0f0f6;
+    text-align: left;
+    padding: 8px;
+  }
+  h1 {
+    color: #030000; /* White text for the header */
+    text-align: center;
+  }
+  
+  p {
+    color: #0f0101; /* White text for paragraphs */
+  }
